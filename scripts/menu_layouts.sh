@@ -3,7 +3,8 @@
 # (c) 2021, Gustavo AlbarrAn
 
 #PATHLAYOUT=~/tmux_layouts/*.conf
-PATHLAYOUT="${path_layouts}/*.conf"
+#PATHLAYOUT="${path_layouts}/*.conf"
+PATHLAYOUT=/home/gustavo/.tmux/pre-layouts/*.conf
 
 LAYOUT=()
 i=0
